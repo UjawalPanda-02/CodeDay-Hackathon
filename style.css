@@ -1,0 +1,25 @@
+body{
+  background-color:yellowgreen;
+}
+
+table{
+  border-collapse: collapse;
+  height: 400p;
+  width: 500px;
+}
+th{
+  height: 50p;
+  font-size: 30px;
+  color: red ;
+}
+ul,ol{
+  text-align: left;
+}
+table, th, td {
+  border: 2px dashed black;
+  padding: 20px;
+}
+
+th:hover{
+  color: purple;
+}
